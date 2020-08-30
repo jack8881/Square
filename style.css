@@ -1,0 +1,13 @@
+body{
+  font-family: sans-serif;
+}
+#calculate, #clear {
+  background: radial-gradient(#606fe0, rgb(87, 152, 236));
+  color: #fff;
+  border: 0;
+  width: auto;
+  padding: 0 20px;
+}
+#valu::placeholder{
+  color: #606fe0;
+}
